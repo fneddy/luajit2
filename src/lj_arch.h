@@ -505,7 +505,6 @@
 #define LJ_TARGET_UNALIGNED	1
 #define LJ_ARCH_NUMMODE		LJ_NUMMODE_DUAL
 #define LJ_TARGET_GC64		1
-#define LJ_ARCH_NOJIT		1	/* NYI */
 
 #else
 #error "No target architecture defined"
